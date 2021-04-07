@@ -11,7 +11,7 @@ import java.io.File;
 public class App {
     boolean running = false;
     int choice = -1;
-    static final String menu = "What would you like to do?\r\n(1) Create matrix\r\n(2) Operate on matrix\r\nExit program (0)";
+    static final String menu = "What would you like to do?\r\n(1) Create matrix\r\n(2) Operate on matrix\r\n(0) Exit program";
     Scanner s;
     Scanner r;
     HashMap<String, Matrix> matrices;
