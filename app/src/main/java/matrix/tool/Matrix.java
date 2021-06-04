@@ -1,7 +1,7 @@
 package matrix.tool;
 
 //import java.io.FileNotFoundException;
-import java.util.Random;
+//import java.util.Random;
 import java.util.Scanner;
 import java.util.UUID;
 import java.io.File;
@@ -139,6 +139,3 @@ public class Matrix{
 
 
 }
-
-
- 
